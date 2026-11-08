@@ -1,5 +1,5 @@
 Student name: Ivan Beniukh
 Student number: 766740
 Student class: IT1C
-GitHub Repository: your github repository URL
-GitHub Pages URL: your github pages URL
+GitHub Repository: https://github.com/766740/Website_Final
+GitHub Pages URL: https://766740.github.io/Website_Final/
