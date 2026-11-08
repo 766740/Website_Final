@@ -715,6 +715,10 @@ main,
 		padding: 35px 7%;
 	}
 
+	.responsible-section img {
+		display: none;
+	}
+
 	.contact-information {
 		border-right: none;
 		border-bottom: 1px solid #888;
@@ -733,6 +737,10 @@ main,
 
 	.contact-form-section textarea {
 		min-height: 140px;
+	}
+
+	.cookie-message {
+		display: none;
 	}
 }
 
