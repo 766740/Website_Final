@@ -1,0 +1,3 @@
+Add your own images to this folder:
+- background.jpg: the large background around the black website panel
+- home-banner.jpg: the image behind 'Fuel your goals' in the hero section
